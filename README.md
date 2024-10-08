@@ -1,2 +1,2 @@
 # algorizzm
-getting to the algorithm's soul and coding it from scratch
+Coding Machine Learning Algorithms and others Algorithms from scratch in Python.
